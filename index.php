@@ -161,6 +161,6 @@ else{
 
     setcookie('save', '1');
 
-    header('Lacation: index.php');
+    header('Location: ./index.php');
 
 }

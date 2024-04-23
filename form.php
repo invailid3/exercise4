@@ -77,8 +77,7 @@
 
             
             <div class="form-acception">
-                <input type="checkbox" name="acception"<?php if ($errors['acception']) {print 'class="error"';} ?>
-                 value="<?php print $values['acception']; ?>" />Acception
+                <input type="checkbox" name="acception"<?php if ($errors['acception']) {print 'class="error"';} ?> />Acception
             </div>
             <div class="form-acception">
                 <input type="submit" name="submition">

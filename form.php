@@ -20,7 +20,7 @@
         }
     ?>
     <div class="form">
-        <form action="/ex4/index.php" method="POST">
+        <form action="/exercise4/index.php" method="POST">
             <div>
                 <h1 id="form-header">Form</h1>
             </div>
